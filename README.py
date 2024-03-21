@@ -1,0 +1,1 @@
+# Data_and_Programmingx = 10y = 12print(x + y)
